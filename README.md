@@ -1,4 +1,4 @@
-# C# TDD Kata Starter with MSpec and XUnit
+# Testing NetCore 2.0 Testing Frameworks in C#
 
 I wanted to see what it was like to develop on .NET Core 2 using Visual Studio Code. The business project represents a business layer that I would want to test. I set up two different test projects. One project uses Machine.Specifications. The other project uses XUnit.
 
